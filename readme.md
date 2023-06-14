@@ -1,0 +1,1 @@
+# Learning Python following tutorial for a few mini projects. Tutorial found here: https://www.youtube.com/watch?v=DLn3jOsNRVE
